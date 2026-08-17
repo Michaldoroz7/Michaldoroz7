@@ -6,6 +6,7 @@
 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Michaldoroz7&layout=donut&langs_count=11&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Michaldoroz7&layout=donut&langs_count=11&hide_values=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Michaldoroz7&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Michaldoroz7&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark)
 
 
 
